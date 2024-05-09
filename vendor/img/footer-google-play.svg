@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="267" height="91" viewBox="0 0 267 91">
+  <g id="Group_37" data-name="Group 37" transform="translate(-140 -8263)">
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="260" height="91" rx="10" transform="translate(140 8263)" fill="#c02539"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(158.008 8275.637)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(-0.008)">
+        <path id="Path_101" data-name="Path 101" d="M3.028,0C4.635,1.592,6.237,3.194,7.849,4.776L36.817,33.2c.6.591.6.591,0,1.172Q20.14,50.754,3.427,67.143a.728.728,0,0,1-1.142.081A5.276,5.276,0,0,1,0,62.665V6.3c0-.738,0-1.455.045-2.173A5.054,5.054,0,0,1,2.422.278c.1-.081.293-.1.339-.278Z" transform="translate(0.008)" fill="#fff"/>
+        <path id="Path_102" data-name="Path 102" d="M21.711,3.72l11.623,6.57L58.451,24.465c.662.374.662.374.116.91-2.37,2.33-4.745,4.649-7.075,6.994-.369.374-.571.344-.925,0Q36.24,18.214,21.9,4.089c-.091-.091-.177-.187-.263-.283Z" transform="translate(-10.7 -1.84)" fill="#fff"/>
+        <path id="Path_103" data-name="Path 103" d="M21.962,101.894c3.032-3.153,6-6.368,9.1-9.455,6.489-6.464,13.023-12.857,19.527-19.29.374-.369.566-.425.965,0,2.365,2.37,4.75,4.7,7.146,7.04.364.354.455.505-.081.809Q40.423,91.241,22.265,101.51c-.167.091-.339.172-.505.258Z" transform="translate(-10.759 -36.034)" fill="#fff"/>
+        <path id="Path_104" data-name="Path 104" d="M104.508,58.71a4.9,4.9,0,0,1-2.577,4.417c-2.284,1.213-4.548,2.527-6.782,3.78a.672.672,0,0,1-.96-.106q-4.008-3.917-8.086-7.788c-.308-.293-.283-.435,0-.713q4.068-3.906,8.116-7.833a.591.591,0,0,1,.849-.086c2.375,1.37,4.776,2.7,7.141,4.088A4.849,4.849,0,0,1,104.508,58.71Z" transform="translate(-42.476 -24.851)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Google_Play" data-name="Google Play" transform="translate(231 8309)" fill="#fff" font-size="26" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="28">Google Play</tspan></text>
+    <text id="Get_it_on" data-name="Get it on" transform="translate(232 8287)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">GET IT ON</tspan></text>
+  </g>
+</svg>
